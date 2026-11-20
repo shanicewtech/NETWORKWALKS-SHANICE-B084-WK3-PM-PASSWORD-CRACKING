@@ -66,19 +66,19 @@ Screenshots documenting the practical exercises and successful flag captures are
 
 ### 1. Networkwalks Password Cracker
 
-![Password Cracker Result](evidence/password-cracker-result.png)
+![Password Cracker Result](password-cracker-result.png)
 
 ### 2. Successful PDF Password Recovery
 
-![PDF Password Recovery](evidence/pdf-password-recovery.png)
+![PDF Password Recovery](pdf-password-recovery.png)
 
 ### 3. First Flag Captured
 
-![First Flag Captured](evidence/first-flag-captured.png)
+![First Flag Captured](first-flag-captured.png)
 
 ### 4. Additional Flag Captured – JTR
 
-![JTR Flag Captured](evidence/jtr-flag-captured.png)
+![JTR Flag Captured](jtr-flag-captured.png)
 
 ## CONCLUSION
 
